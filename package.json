@@ -6,11 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "ISC",
   "files": [
-    "dist"
+    "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANB007/eslint-config-servyou.git"
+  },
+  "author": "luoqiming",
   "devDependencies": {
     "eslint": "^8.1.0",
     "eslint-config-airbnb": "^18.2.1",
